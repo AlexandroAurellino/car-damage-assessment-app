@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+numpy
+Pillow
+inference-sdk
+ultralytics
+opencv-python-headless
